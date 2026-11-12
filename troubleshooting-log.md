@@ -25,3 +25,12 @@ Recorded October 29, 2026. Exact hands-on test times were not recorded.
 
 ## November 12, 2026 — Project resumed
 Cartridges replaced and installation errors cleared per owner. An 802XL black cartridge is visible. Print testing produced a Printing screen and new Printer Error 000084; a separate prompt recommends a nozzle check. No successful output confirmed. [Evidence inventory and next tests](updates/2026-11-12.md).
+
+## November 12 follow-up — Blank page, cleaning, partial output
+- Owner reported a blank sheet from the printer's built-in nozzle check.
+- IMG_1264 and IMG_1265 show cleaning in progress; they do not establish the number of separate cycles.
+- IMG_1266 shows the screen asking the operator to compare the printed result. This is not an automatic pass.
+- IMG_1267 and IMG_1268 show visible line blocks with gaps/missing sections. Complete output across all ink channels cannot be established from the photos.
+- Progress: output is no longer entirely blank. Repair remains incomplete; recurrence of 000084 is unknown.
+- Next: if no active error and fewer than four cleanings have been run in this session, run one guided cleaning and a fresh nozzle check. Keep each page separate and record the cycle count. If no improvement after up to four cleanings, Epson specifies at least six hours without printing before retrying; persistent poor output warrants Epson support. Do not interrupt cleaning.
+- Reference: [Epson user guide, printed pages 240–243 and 247](https://files.support.epson.com/docid/cpd5/cpd53013.pdf).
