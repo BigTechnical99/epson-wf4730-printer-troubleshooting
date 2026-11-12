@@ -67,3 +67,6 @@ Owner confirms IMG_1277 was produced by Maintenance > Print Head Nozzle Check an
 
 ### Supply status — IMG_1278.HEIC
 Owner confirms Epson-branded cartridges. Supply Status photo shows BK nearly full, M above half, C about one-third, and Y with no visible colored fill plus an amber exclamation warning. These are approximate visual readings, not measured percentages; the photo alone does not distinguish low from expended status. Maintenance-box remaining capacity is shown, with no warning visible for it. Yellow is the first consumable requiring status clarification; select the warning/replacement workflow to read the exact message. Low yellow alone does not establish why black and magenta output are absent or explain 000084. Further cleaning and firmware changes deferred pending supply clarification.
+
+### Yellow warning clarified — IMG_1279.HEIC
+Follow-up display reads “Ink is low.” In context of the preceding yellow warning, yellow is low, not confirmed expended or requiring immediate replacement. Low yellow alone does not explain the missing black/magenta output or recurring 000084. Further cleaning remains on hold; prepare replacement yellow when required, observe the rest interval if four cleaning cycles were completed, and seek Epson assessment if the subsequent nozzle check remains blue-only or 000084 returns. Firmware update has not been performed.
