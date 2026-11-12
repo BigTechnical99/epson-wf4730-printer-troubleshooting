@@ -40,3 +40,6 @@ The owner confirmed three cleaning cycles were performed before ink first appear
 
 ### Error recurrence check
 The owner confirmed error 000084 has not returned during the recent tests. This supersedes the earlier unknown recurrence status; it does not establish permanent resolution. Current remaining symptom is incomplete nozzle-check output after three cleaning cycles.
+
+### Follow-up photo IMG_1271.HEIC
+The new page shows two visible line blocks; the right block appears more continuous while the left retains faint/broken sections. Full output across all four ink channels is not evident, so the nozzle check is not recorded as passed. The image followed advice to perform a fourth cleaning, but completion of that fourth cycle has not been explicitly confirmed. Next: if four cycles have been completed, stop cleaning and allow at least six hours without printing before a fresh nozzle check. Prior report: 000084 had not returned.
