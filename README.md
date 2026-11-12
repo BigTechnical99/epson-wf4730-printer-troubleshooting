@@ -1,6 +1,6 @@
 # Epson WF-4730 Printer Troubleshooting
 
-**Status: In progress — cartridge error cleared; printer error 000084 during print testing.**  
+**Status: In progress — ink now appears on nozzle-check pages; incomplete patterns remain.**  
 **Last updated: November 12, 2026**
 
 ## Overview
@@ -19,6 +19,7 @@ A client reported that her printer would not turn on and had experienced printin
 | 6. Attempt printing | Printer displayed “Printing…”; subsequent photo shows Printer Error 000084. | Successful printing remains unverified; cause under investigation. |
 
 ## Current findings
+- Follow-up: owner reported an initially blank control-panel nozzle check. New photos IMG_1264–IMG_1268 show head cleaning in progress, a manual pattern-comparison screen, and printed line blocks with missing sections. Ink output is now visible, but a complete nozzle pattern and normal document printing are not verified. Exact cleaning count and recurrence of 000084 are not yet confirmed.
 - Power was restored by substituting the cord; the original cord/connection remains suspected.
 - The previously missing black cartridge is now installed (802XL label visible). The project owner reports replacing cartridges and clearing the installation errors.
 - New evidence shows a “Printing…” screen and Printer Error **000084**, requesting a restart.
