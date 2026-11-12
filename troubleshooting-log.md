@@ -22,3 +22,6 @@ Recorded October 29, 2026. Exact hands-on test times were not recorded.
 **Observed result:**  
 **Evidence file:**  
 **Next step:**
+
+## November 12, 2026 — Project resumed
+Cartridges replaced and installation errors cleared per owner. An 802XL black cartridge is visible. Print testing produced a Printing screen and new Printer Error 000084; a separate prompt recommends a nozzle check. No successful output confirmed. [Evidence inventory and next tests](updates/2026-11-12.md).
