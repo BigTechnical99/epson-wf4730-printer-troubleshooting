@@ -34,3 +34,6 @@ Cartridges replaced and installation errors cleared per owner. An 802XL black ca
 - Progress: output is no longer entirely blank. Repair remains incomplete; recurrence of 000084 is unknown.
 - Next: if no active error and fewer than four cleanings have been run in this session, run one guided cleaning and a fresh nozzle check. Keep each page separate and record the cycle count. If no improvement after up to four cleanings, Epson specifies at least six hours without printing before retrying; persistent poor output warrants Epson support. Do not interrupt cleaning.
 - Reference: [Epson user guide, printed pages 240–243 and 247](https://files.support.epson.com/docid/cpd5/cpd53013.pdf).
+
+### Cleaning count confirmed by owner
+The owner confirmed three cleaning cycles were performed before ink first appeared on the page. This replaces the previously unknown cycle count. Visible ink output improved from blank to partial patterns; full print quality remains unverified. Recurrence of 000084 has not been confirmed.
