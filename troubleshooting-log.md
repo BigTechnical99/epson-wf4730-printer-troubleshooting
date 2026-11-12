@@ -37,3 +37,6 @@ Cartridges replaced and installation errors cleared per owner. An 802XL black ca
 
 ### Cleaning count confirmed by owner
 The owner confirmed three cleaning cycles were performed before ink first appeared on the page. This replaces the previously unknown cycle count. Visible ink output improved from blank to partial patterns; full print quality remains unverified. Recurrence of 000084 has not been confirmed.
+
+### Error recurrence check
+The owner confirmed error 000084 has not returned during the recent tests. This supersedes the earlier unknown recurrence status; it does not establish permanent resolution. Current remaining symptom is incomplete nozzle-check output after three cleaning cycles.
