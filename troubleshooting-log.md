@@ -49,3 +49,6 @@ Both visible line blocks show continuous lines in the clearer photo. The earlier
 
 ### Error recurrence during phone printing
 Owner reports the same previously documented error (000084) returned during an image print from a phone. Paper began feeding and the pending job produced a blank page. This supersedes the earlier report of no recurrence. Both visible blocks in the preceding local test had continuous lines, but that did not validate all ink channels or a complete repair. Next isolation test: cancel the phone job, restart normally, then run a fresh control-panel nozzle check and a standalone copy. Record output and whether the error returns before changing phone/network settings or running further cleaning.
+
+### Restart popup — IMG_1273.HEIC
+After restart the owner photographed an Information message recommending a Print Head Nozzle Check because the printhead may require maintenance. This photo does not show 000084 and does not establish a failed printhead. The previously recurring 000084 remains unresolved. Next: dismiss the advisory and, if no blocking error is present, perform the planned standalone copy; record whether it produces readable output, a blank page, or an error. Further cleaning is not justified by this advisory alone.
