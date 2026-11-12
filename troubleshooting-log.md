@@ -46,3 +46,6 @@ The new page shows two visible line blocks; the right block appears more continu
 
 ### Correction based on IMG_1272.HEIC and owner inspection
 Both visible line blocks show continuous lines in the clearer photo. The earlier interpretation of faint/broken sections in IMG_1271 is withdrawn; that image did not justify recommending additional cleaning. Do not record this as confirmed failure of the left block. Next: accept the no-gaps option for these displayed patterns and test a short black-text document and a small color sample. All four ink channels and overall document quality remain unverified. Cleaning count beyond the three confirmed cycles remains unconfirmed.
+
+### Error recurrence during phone printing
+Owner reports the same previously documented error (000084) returned during an image print from a phone. Paper began feeding and the pending job produced a blank page. This supersedes the earlier report of no recurrence. Both visible blocks in the preceding local test had continuous lines, but that did not validate all ink channels or a complete repair. Next isolation test: cancel the phone job, restart normally, then run a fresh control-panel nozzle check and a standalone copy. Record output and whether the error returns before changing phone/network settings or running further cleaning.
