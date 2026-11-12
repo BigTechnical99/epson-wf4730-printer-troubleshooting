@@ -43,3 +43,6 @@ The owner confirmed error 000084 has not returned during the recent tests. This 
 
 ### Follow-up photo IMG_1271.HEIC
 The new page shows two visible line blocks; the right block appears more continuous while the left retains faint/broken sections. Full output across all four ink channels is not evident, so the nozzle check is not recorded as passed. The image followed advice to perform a fourth cleaning, but completion of that fourth cycle has not been explicitly confirmed. Next: if four cycles have been completed, stop cleaning and allow at least six hours without printing before a fresh nozzle check. Prior report: 000084 had not returned.
+
+### Correction based on IMG_1272.HEIC and owner inspection
+Both visible line blocks show continuous lines in the clearer photo. The earlier interpretation of faint/broken sections in IMG_1271 is withdrawn; that image did not justify recommending additional cleaning. Do not record this as confirmed failure of the left block. Next: accept the no-gaps option for these displayed patterns and test a short black-text document and a small color sample. All four ink channels and overall document quality remain unverified. Cleaning count beyond the three confirmed cycles remains unconfirmed.
